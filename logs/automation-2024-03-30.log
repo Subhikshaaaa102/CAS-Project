@@ -1,0 +1,43 @@
+13:34:54.907 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+13:35:00.042 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+13:35:05.398 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - User info got selected
+13:35:05.908 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+13:35:10.916 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+13:35:15.645 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+13:35:15.646 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+13:35:16.757 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+13:35:16.776 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - User info got selected
+13:35:16.863 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+13:35:21.868 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+13:35:24.418 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+13:35:25.171 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+13:35:25.236 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'seeAll'
+13:35:27.955 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+13:35:27.955 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+13:35:28.472 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+13:35:28.529 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+13:35:30.617 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - See All News section was displayed
+13:35:33.531 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+13:35:40.624 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+13:35:44.424 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+13:35:44.453 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+13:35:45.209 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+13:36:05.528 [TestNG-tests-1] INFO  testCase.TC_001_AroundCognizant - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='c24ff0ed-b166-42e5-b7d5-57c9a9e573cb']//p/a[@href]"}
+  (Session info: MicrosoftEdge=123.0.2420.65)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ab601a8a1a4b3d0ca68a320ecefdb3bc, findElement {value=//*[@id='c24ff0ed-b166-42e5-b7d5-57c9a9e573cb']//p/a[@href], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.65, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51185}, msedge: {msedgedriverVersion: 123.0.2420.65 (49b6a5859239..., userDataDir: C:\windows\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51185/devtoo..., se:cdpVersion: 123.0.2420.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ab601a8a1a4b3d0ca68a320ecefdb3bc
+13:37:07.972 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+13:37:13.075 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+13:37:18.275 [main] INFO  testCase.TC_001_AroundCognizant - User info got selected
+13:37:28.450 [main] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+13:37:28.450 [main] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+13:37:29.467 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+13:37:29.542 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+13:37:34.555 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+13:37:35.273 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+13:37:35.647 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********

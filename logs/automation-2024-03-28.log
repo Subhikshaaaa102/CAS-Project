@@ -1,0 +1,49 @@
+17:25:11.685 [main] INFO  testCase.TC_002_AroundCognizant - Validating the hearder and tooltip
+17:26:24.982 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:26:30.083 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:26:40.157 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+17:26:40.157 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+17:28:24.116 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:28:29.204 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:28:39.286 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+17:28:39.286 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+17:32:11.959 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:32:17.042 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:32:27.105 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+17:32:27.105 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+17:35:15.258 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:35:20.333 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:35:45.393 [main] ERROR testCase.TC_001_UserInfo - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='mectrl_currentAccount_primary']"}
+  (Session info: chrome=120.0.6099.130)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6dbe96246c568350279cdb98f6157c70, findElement {using=xpath, value=//*[@id='mectrl_currentAccount_primary']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50736}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50736/devtoo..., se:cdpVersion: 120.0.6099.130, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6dbe96246c568350279cdb98f6157c70
+17:41:16.749 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:41:21.833 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:41:31.898 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+17:41:31.898 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+17:43:15.396 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:43:20.474 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:43:30.547 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+17:43:30.547 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+17:45:00.325 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:45:05.403 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:45:15.459 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+17:45:15.460 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+17:45:32.835 [main] INFO  testCase.TC_002_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+17:45:37.836 [main] INFO  testCase.TC_002_AroundCognizant - Validating the hearder and tooltip
+17:46:16.690 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+17:46:21.766 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+17:46:31.829 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+17:46:31.829 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+17:46:50.196 [main] INFO  testCase.TC_002_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+17:46:55.206 [main] INFO  testCase.TC_002_AroundCognizant - Validating the hearder and tooltip
+17:47:08.986 [main] INFO  testCase.TC_03_SeeAll - News Header and ToolTip differs
+17:49:04.997 [main] INFO  testCase.TC_03_SeeAll - News Header and ToolTip differs
+17:50:50.793 [main] INFO  testCase.TC_03_SeeAll - java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "sp.listHeader" is null
+17:55:59.014 [main] INFO  testCase.TC_03_SeeAll - java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "news" is null
+17:57:12.892 [main] INFO  testCase.TC_03_SeeAll - java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "news" is null

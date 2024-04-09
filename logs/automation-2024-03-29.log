@@ -1,0 +1,55 @@
+18:06:15.701 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 1 STARTED*********
+18:06:20.752 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+18:06:25.826 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+18:06:35.907 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+18:06:35.907 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+18:06:35.913 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 2 STARTED*********
+18:06:35.940 [main] INFO  testCase.TC_001_UserInfo - Successfully scrolled upto 'AROUND COGNIZANT'
+18:06:40.950 [main] INFO  testCase.TC_001_UserInfo - Validating the hearder and tooltip
+18:06:40.977 [main] INFO  testCase.TC_001_UserInfo - java.lang.NullPointerException: Cannot invoke "java.util.List.add(Object)" because "this.ar" is null
+18:06:40.981 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 3 STARTED*********
+18:06:41.008 [main] INFO  testCase.TC_001_UserInfo - Successfully scrolled upto 'seeAll'
+18:06:46.088 [main] INFO  testCase.TC_001_UserInfo - See All News section was displayed
+18:06:56.092 [main] INFO  testCase.TC_001_UserInfo - Validating the hearder and tooltip
+18:06:56.139 [main] INFO  testCase.TC_001_UserInfo - java.lang.NullPointerException: Cannot invoke "java.util.List.add(Object)" because "this.newsHeader" is null
+18:07:44.406 [main] INFO  testCase.TC_002_AroundCognizant - ********TEST CASE 2 STARTED*********
+18:07:44.462 [main] INFO  testCase.TC_002_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+18:07:49.469 [main] INFO  testCase.TC_002_AroundCognizant - Validating the hearder and tooltip
+18:07:49.778 [main] INFO  testCase.TC_002_AroundCognizant - Validation successfull
+18:09:03.224 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 2 STARTED*********
+18:09:03.261 [main] INFO  testCase.TC_001_UserInfo - Successfully scrolled upto 'AROUND COGNIZANT'
+18:09:08.275 [main] INFO  testCase.TC_001_UserInfo - Validating the hearder and tooltip
+18:09:08.366 [main] INFO  testCase.TC_001_UserInfo - java.lang.NullPointerException: Cannot invoke "java.util.List.add(Object)" because "this.ar" is null
+18:10:41.901 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 1 STARTED*********
+18:10:46.972 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+18:10:52.046 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+18:11:02.125 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+18:11:02.125 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+18:11:02.133 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 2 STARTED*********
+18:11:02.179 [main] INFO  testCase.TC_001_UserInfo - Successfully scrolled upto 'AROUND COGNIZANT'
+18:11:07.194 [main] INFO  testCase.TC_001_UserInfo - Validating the hearder and tooltip
+18:11:07.470 [main] INFO  testCase.TC_001_UserInfo - Validation successfull
+18:11:07.474 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 3 STARTED*********
+18:11:07.499 [main] INFO  testCase.TC_001_UserInfo - Successfully scrolled upto 'seeAll'
+18:11:12.575 [main] INFO  testCase.TC_001_UserInfo - See All News section was displayed
+18:11:22.585 [main] INFO  testCase.TC_001_UserInfo - Validating the hearder and tooltip
+18:11:22.827 [main] INFO  testCase.TC_001_UserInfo - Validation successfull
+18:18:01.399 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 1 STARTED*********
+18:18:06.472 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+18:18:11.559 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+18:18:21.649 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+18:18:21.649 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully
+18:18:21.654 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 2 STARTED*********
+18:18:21.693 [main] INFO  testCase.TC_001_UserInfo - Successfully scrolled upto 'AROUND COGNIZANT'
+18:18:26.704 [main] INFO  testCase.TC_001_UserInfo - Validating the hearder and tooltip
+18:18:26.898 [main] INFO  testCase.TC_001_UserInfo - Validation successfull
+18:18:26.901 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 3 STARTED*********
+18:18:26.916 [main] INFO  testCase.TC_001_UserInfo - Successfully scrolled upto 'seeAll'
+18:18:32.037 [main] INFO  testCase.TC_001_UserInfo - See All News section was displayed
+18:18:42.040 [main] INFO  testCase.TC_001_UserInfo - Validating the hearder and tooltip
+18:18:42.285 [main] INFO  testCase.TC_001_UserInfo - Validation successfull
+18:21:10.010 [main] INFO  testCase.TC_001_UserInfo - ********TEST CASE 1 STARTED*********
+18:21:15.060 [main] INFO  testCase.TC_001_UserInfo - Test case 1 started
+18:21:20.139 [main] INFO  testCase.TC_001_UserInfo - User info got selected
+18:21:30.227 [main] INFO  testCase.TC_001_UserInfo - User name Validated Successfully
+18:21:30.228 [main] INFO  testCase.TC_001_UserInfo - Mail Id Validated Successfully

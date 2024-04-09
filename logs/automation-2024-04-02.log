@@ -1,0 +1,46 @@
+12:27:59.427 [TestNG-tests-2] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+12:29:33.372 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+12:29:38.475 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+12:29:43.657 [main] INFO  testCase.TC_001_AroundCognizant - User info got selected
+12:29:53.893 [main] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+12:29:53.894 [main] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+12:29:55.058 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+12:29:55.279 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+12:30:00.293 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+12:30:01.156 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+12:30:01.882 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+12:30:01.983 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'seeAll'
+12:30:07.333 [main] INFO  testCase.TC_001_AroundCognizant - See All News section was displayed
+12:30:17.343 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+12:30:17.861 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+12:33:06.057 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+12:33:11.063 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+12:33:16.085 [main] ERROR testCase.TC_001_AroundCognizant - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.130)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a62fcc20fef0aab4dcb0b88e54fc8d8e, findElement {using=xpath, value=//div[@class='_8ZYZKvxC8bvw1xgQGSkvvA==']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52257}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52257/devtoo..., se:cdpVersion: 120.0.6099.130, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a62fcc20fef0aab4dcb0b88e54fc8d8e
+12:33:16.093 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+12:33:16.101 [main] INFO  testCase.TC_001_AroundCognizant - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.130)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a62fcc20fef0aab4dcb0b88e54fc8d8e, findElement {using=xpath, value=//*[@id='5d7d4eec-cbe0-4c55-ae2e-f38d926d82a0']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52257}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52257/devtoo..., se:cdpVersion: 120.0.6099.130, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a62fcc20fef0aab4dcb0b88e54fc8d8e
+12:33:16.105 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+12:33:16.123 [main] INFO  testCase.TC_001_AroundCognizant - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.130)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a62fcc20fef0aab4dcb0b88e54fc8d8e, findElement {using=xpath, value=//*[@id='c24ff0ed-b166-42e5-b7d5-57c9a9e573cb']//p/a[@href]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52257}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52257/devtoo..., se:cdpVersion: 120.0.6099.130, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a62fcc20fef0aab4dcb0b88e54fc8d8e
